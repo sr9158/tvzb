@@ -126,43 +126,43 @@ http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/o
 #EXTINF:-1 ,凤凰中文
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 ,凤凰中文
-http://113.64.147.38:8081/hls/37/index.m3u8
+http://113.64.147.15:8081/hls/37/index.m3u8
 #EXTINF:-1 ,凤凰中文
-http://113.64.147.50:8081/hls/37/index.m3u8
+http://113.64.147.20:8081/hls/37/index.m3u8
 #EXTINF:-1 ,凤凰中文
-http://113.64.147.866:8081/hls/37/index.m3u8
+http://113.64.147.93:8081/hls/37/index.m3u8
 #EXTINF:-1 ,凤凰中文
-http://113.64.147.115:8081/hls/37/index.m3u8
+http://113.64.147.116:8081/hls/37/index.m3u8
 #EXTINF:-1 ,凤凰中文
-http://113.64.147.162:8081/hls/37/index.m3u8
+http://113.64.147.204:8081/hls/37/index.m3u8
 #EXTINF:-1 ,凤凰资讯
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 ,凤凰资讯
-http://113.64.147.38:8081/hls/36/index.m3u8
+http://113.64.147.15:8081/hls/36/index.m3u8
 #EXTINF:-1 ,凤凰资讯
-http://113.64.147.50:8081/hls/36/index.m3u8
+http://113.64.147.20:8081/hls/36/index.m3u8
 #EXTINF:-1 ,凤凰资讯
-http://113.64.147.86:8081/hls/36/index.m3u8
+http://113.64.147.93:8081/hls/36/index.m3u8
 #EXTINF:-1 ,凤凰资讯
-http://113.64.147.115:8081/hls/36/index.m3u8
+http://113.64.147.116:8081/hls/36/index.m3u8
 #EXTINF:-1 ,凤凰资讯
-http://113.64.147.162:8081/hls/36/index.m3u8
+http://113.64.147.204:8081/hls/36/index.m3u8
 #EXTINF:-1 ,凤凰香港
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 ,凤凰香港
-http://113.64.147.38:8081/hls/38/index.m3u8
+http://113.64.147.15:8081/hls/38/index.m3u8
 #EXTINF:-1 ,凤凰香港
-http://113.64.147.50:8081/hls/38/index.m3u8
+http://113.64.147.20:8081/hls/38/index.m3u8
 #EXTINF:-1 ,凤凰香港
-http://113.64.147.86:8081/hls/38/index.m3u8
+http://113.64.147.93:8081/hls/38/index.m3u8
 #EXTINF:-1 ,凤凰香港
-http://113.64.147.115:8081/hls/38/index.m3u8
+http://113.64.147.116:8081/hls/38/index.m3u8
 #EXTINF:-1 ,凤凰香港
-http://113.64.147.162:8081/hls/38/index.m3u8
+http://113.64.147.204:8081/hls/38/index.m3u8
 #EXTINF:-1 ,广东4K
-http://113.64.147.148:8081/hls/145/index.m3u8
+http://113.64.147.20:8081/hls/145/index.m3u8
 #EXTINF:-1 ,CCTV4K
-http://113.64.147.148:8081/hls/144/index.m3u8
+http://113.64.147.20:8081/hls/144/index.m3u8
 #EXTINF:-1 ,翡翠台
 http://[240e:3b9:34bb:4840:7197:38c5:738b:fe34]:8500/tlvl.ts
 #EXTINF:-1 ,纬来体育
