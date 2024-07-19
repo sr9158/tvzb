@@ -165,6 +165,8 @@ http://113.64.147.20:8081/hls/145/index.m3u8
 http://113.64.147.20:8081/hls/144/index.m3u8
 #EXTINF:-1 ,翡翠台
 http://[240e:3b9:34bb:4840:7197:38c5:738b:fe34]:8500/tlvl.ts
+#EXTINF:-1 ,翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 #EXTINF:-1 ,纬来体育
 http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 #EXTINF:-1 ,寰宇新闻台
