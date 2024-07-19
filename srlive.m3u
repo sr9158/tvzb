@@ -126,11 +126,11 @@ http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/o
 #EXTINF:-1 ,凤凰中文
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 ,凤凰中文
-http://113.64.147.15:8081/hls/37/index.m3u8
+http://lidahai.top:8100/udp/239.93.0.162:2192
 #EXTINF:-1 ,凤凰中文
-http://113.64.147.20:8081/hls/37/index.m3u8
+http://lidahai.top:8100/udp/239.93.1.9:2192
 #EXTINF:-1 ,凤凰中文
-http://113.64.147.93:8081/hls/37/index.m3u8
+http://xbbhome.top:8888/udp/239.93.0.162:2192
 #EXTINF:-1 ,凤凰中文
 http://113.64.147.116:8081/hls/37/index.m3u8
 #EXTINF:-1 ,凤凰中文
@@ -138,11 +138,11 @@ http://113.64.147.204:8081/hls/37/index.m3u8
 #EXTINF:-1 ,凤凰资讯
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 ,凤凰资讯
-http://113.64.147.15:8081/hls/36/index.m3u8
+http://lidahai.top:8100/udp/239.93.0.118:2191
 #EXTINF:-1 ,凤凰资讯
-http://113.64.147.20:8081/hls/36/index.m3u8
+http://lidahai.top:8100/udp/239.93.1.4:2191
 #EXTINF:-1 ,凤凰资讯
-http://113.64.147.93:8081/hls/36/index.m3u8
+http://xbbhome.top:8888/udp/239.93.0.118:2191
 #EXTINF:-1 ,凤凰资讯
 http://113.64.147.116:8081/hls/36/index.m3u8
 #EXTINF:-1 ,凤凰资讯
