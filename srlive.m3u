@@ -123,7 +123,7 @@ http://192.168.1.18:5678/xx8k50fps.php
 #EXTINF:-1 ,CCTV8K
 http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 #EXTINF:-1 ,凤凰中文
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 ,凤凰中文
 http://171.212.170.32:8088/udp/239.93.1.9:2192
 #EXTINF:-1 ,凤凰中文
@@ -135,7 +135,7 @@ http://wouu.net:9977/udp/239.93.1.9:2192
 #EXTINF:-1 ,凤凰中文
 http://113.64.147.204:8081/hls/37/index.m3u8
 #EXTINF:-1 ,凤凰资讯
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 ,凤凰资讯
 http://171.212.170.32:8088/udp/239.93.1.9:2191
 #EXTINF:-1 ,凤凰资讯
@@ -147,7 +147,7 @@ http://118.112.148.228:58888/udp/239.93.0.118:2191
 #EXTINF:-1 ,凤凰资讯
 http://113.64.147.204:8081/hls/36/index.m3u8
 #EXTINF:-1 ,凤凰香港
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 ,凤凰香港
 http://113.64.147.15:8081/hls/38/index.m3u8
 #EXTINF:-1 ,凤凰香港
