@@ -137,7 +137,7 @@ http://113.64.147.204:8081/hls/37/index.m3u8
 #EXTINF:-1 ,凤凰资讯
 http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 ,凤凰资讯
-http://171.212.170.32:8088/udp/239.93.1.9:2191
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 ,凤凰资讯
 http://118.112.148.228:4022/udp/239.93.0.118:2191
 #EXTINF:-1 ,凤凰资讯
