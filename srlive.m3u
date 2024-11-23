@@ -525,95 +525,193 @@ http://[2409:8087:74d9:21::6]/000000001000/PLTV/88888888/224/3221226620/index.m3
 http://[2409:8087:74d9:21::6]/000000001000/PLTV/88888888/224/3221226654/index.m3u8
 #EXTINF:-1 group-title="== 未分组 ==",金鹰卡通
 http://[2409:8087:74d9:21::6]/000000001000/PLTV/88888888/224/3221226703/index.m3u8
-#EXTINF:-1 group-title="== 未分组 ==",best1
-http://[2409:8087:74d9:21::6]/000000001000/PLTV/88888888/224/3221226130/index.m3u8
-#EXTINF:-1 group-title="== 未分组 ==",best2
-http://[2409:8087:74d9:21::6]/000000001000/PLTV/88888888/224/3221226132/index.m3u8
-#EXTINF:-1 group-title="== 未分组 ==",best3
-http://[2409:8087:74d9:21::6]/000000001000/PLTV/88888888/224/3221226134/index.m3u8
-#EXTINF:-1 group-title="== 未分组 ==",best4
-http://[2409:8087:74d9:21::6]/000000001000/PLTV/88888888/224/3221226136/index.m3u8
-#EXTINF:-1 group-title="== 未分组 ==",best5
-http://[2409:8087:74d9:21::6]/000000001000/PLTV/88888888/224/3221226138/index.m3u8
-#EXTINF:-1 group-title="== 未分组 ==",best6
-http://[2409:8087:74d9:21::6]/000000001000/PLTV/88888888/224/3221226141/index.m3u8
-#EXTINF:-1 group-title="== 未分组 ==",best7
-http://[2409:8087:74d9:21::6]/000000001000/PLTV/88888888/224/3221226145/index.m3u8
-#EXTINF:-1 group-title="== 未分组 ==",best8
-http://[2409:8087:74d9:21::6]/000000001000/PLTV/88888888/224/3221226147/index.m3u8
-#EXTINF:-1 group-title="== 未分组 ==",best9
-http://[2409:8087:74d9:21::6]/000000001000/PLTV/88888888/224/3221226149/index.m3u8
-#EXTINF:-1 group-title="== 未分组 ==",best10
-http://[2409:8087:74d9:21::6]/000000001000/PLTV/88888888/224/3221226151/index.m3u8
-#EXTINF:-1 group-title="== 未分组 ==",咪咕1
-http://[2409:8087:74d9:21::6]/000000001000/PLTV/88888888/224/3221226188/index.m3u8
-#EXTINF:-1 group-title="== 未分组 ==",咪咕2
-http://[2409:8087:74d9:21::6]/000000001000/PLTV/88888888/224/3221226190/index.m3u8
-#EXTINF:-1 group-title="== 未分组 ==",咪咕3
-http://[2409:8087:74d9:21::6]/000000001000/PLTV/88888888/224/3221226192/index.m3u8
-#EXTINF:-1 group-title="== 未分组 ==",咪咕4
-http://[2409:8087:74d9:21::6]/000000001000/PLTV/88888888/224/3221226194/index.m3u8
-#EXTINF:-1 group-title="== 未分组 ==",咪咕5
-http://[2409:8087:74d9:21::6]/000000001000/PLTV/88888888/224/3221226196/index.m3u8
-#EXTINF:-1 group-title="== 未分组 ==",咪咕6
-http://[2409:8087:74d9:21::6]/000000001000/PLTV/88888888/224/3221226215/index.m3u8
-#EXTINF:-1 group-title="== 未分组 ==",咪咕7
-http://[2409:8087:74d9:21::6]/000000001000/PLTV/88888888/224/3221226217/index.m3u8
-#EXTINF:-1 group-title="== 未分组 ==",咪咕8
-http://[2409:8087:74d9:21::6]/000000001000/PLTV/88888888/224/3221226219/index.m3u8
-#EXTINF:-1 group-title="== 未分组 ==",咪咕9
-http://[2409:8087:74d9:21::6]/000000001000/PLTV/88888888/224/3221226221/index.m3u8
-#EXTINF:-1 group-title="== 未分组 ==",咪咕10
-http://[2409:8087:74d9:21::6]/000000001000/PLTV/88888888/224/3221226223/index.m3u8
-#EXTINF:-1 group-title="== 未分组 ==",咪咕11
-http://[2409:8087:74d9:21::6]/000000001000/PLTV/88888888/224/3221226225/index.m3u8
-#EXTINF:-1 group-title="== 未分组 ==",咪咕12
-http://[2409:8087:74d9:21::6]/000000001000/PLTV/88888888/224/3221226227/index.m3u8
-#EXTINF:-1 group-title="== 未分组 ==",咪咕13
-http://[2409:8087:74d9:21::6]/000000001000/PLTV/88888888/224/3221226229/index.m3u8
-#EXTINF:-1 group-title="== 未分组 ==",咪咕14
-http://[2409:8087:74d9:21::6]/000000001000/PLTV/88888888/224/3221226273/index.m3u8
-#EXTINF:-1 group-title="== 未分组 ==",咪咕15
-http://[2409:8087:74d9:21::6]/000000001000/PLTV/88888888/224/3221226326/index.m3u8
-#EXTINF:-1 group-title="== 未分组 ==",咪咕16
-http://[2409:8087:74d9:21::6]/000000001000/PLTV/88888888/224/3221226328/index.m3u8
-#EXTINF:-1 group-title="== 未分组 ==",咪咕17
-http://[2409:8087:74d9:21::6]/000000001000/PLTV/88888888/224/3221226340/index.m3u8
-#EXTINF:-1 group-title="== 未分组 ==",咪咕18-4K
-http://[2409:8087:74d9:21::6]/000000001000/PLTV/88888888/224/3221226351/index.m3u8
-#EXTINF:-1 group-title="== 未分组 ==",咪咕19
-http://[2409:8087:74d9:21::6]/000000001000/PLTV/88888888/224/3221226352/index.m3u8
-#EXTINF:-1 group-title="== 未分组 ==",咪咕20
-http://[2409:8087:74d9:21::6]/000000001000/PLTV/88888888/224/3221226355/index.m3u8
-#EXTINF:-1 group-title="== 未分组 ==",咪咕21
-http://[2409:8087:74d9:21::6]/000000001000/PLTV/88888888/224/3221226357/index.m3u8
-#EXTINF:-1 group-title="== 未分组 ==",咪咕22
-http://[2409:8087:74d9:21::6]/000000001000/PLTV/88888888/224/3221226359/index.m3u8
-#EXTINF:-1 group-title="== 未分组 ==",咪咕23
-http://[2409:8087:74d9:21::6]/000000001000/PLTV/88888888/224/3221226367/index.m3u8
-#EXTINF:-1 group-title="== 未分组 ==",咪咕24
-http://[2409:8087:74d9:21::6]/000000001000/PLTV/88888888/224/3221226401/index.m3u8
-#EXTINF:-1 group-title="== 未分组 ==",咪咕25
-http://[2409:8087:74d9:21::6]/000000001000/PLTV/88888888/224/3221226403/index.m3u8
-#EXTINF:-1 group-title="== 未分组 ==",咪咕26
-http://[2409:8087:74d9:21::6]/000000001000/PLTV/88888888/224/3221226494/index.m3u8
-#EXTINF:-1 group-title="== 未分组 ==",咪咕27
-http://[2409:8087:74d9:21::6]/000000001000/PLTV/88888888/224/3221226496/index.m3u8
-#EXTINF:-1 group-title="== 未分组 ==",咪咕28
-http://[2409:8087:74d9:21::6]/000000001000/PLTV/88888888/224/3221226498/index.m3u8
-#EXTINF:-1 group-title="== 未分组 ==",咪咕29
-http://[2409:8087:74d9:21::6]/000000001000/PLTV/88888888/224/3221226500/index.m3u8
-#EXTINF:-1 group-title="== 未分组 ==",咪咕30
-http://[2409:8087:74d9:21::6]/000000001000/PLTV/88888888/224/3221226504/index.m3u8
-#EXTINF:-1 group-title="== 未分组 ==",咪咕31
-http://[2409:8087:74d9:21::6]/000000001000/PLTV/88888888/224/3221226506/index.m3u8
-#EXTINF:-1 group-title="== 未分组 ==",咪咕32
-http://[2409:8087:74d9:21::6]/000000001000/PLTV/88888888/224/3221226508/index.m3u8
-#EXTINF:-1 group-title="== 未分组 ==",咪咕33
-http://[2409:8087:74d9:21::6]/000000001000/PLTV/88888888/224/3221226591/index.m3u8
-#EXTINF:-1 group-title="== 未分组 ==",咪咕34
-http://[2409:8087:74d9:21::6]/000000001000/PLTV/88888888/224/3221226593/index.m3u8
-#EXTINF:-1 group-title="== 未分组 ==",咪咕35
-http://[2409:8087:74d9:21::6]/000000001000/PLTV/88888888/224/3221226595/index.m3u8
-#EXTINF:-1 group-title="== 未分组 ==",咪咕36
-http://[2409:8087:74d9:21::6]/000000001000/PLTV/88888888/224/3221226599/index.m3u8
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播1
+http://111.13.111.242/000000001000/3000000001000005308/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播2
+http://111.13.111.242/000000001000/3000000001000005969/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播3
+http://111.13.111.242/000000001000/3000000001000007218/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播4
+http://111.13.111.242/000000001000/3000000001000008001/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播5
+http://111.13.111.242/000000001000/3000000001000008176/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播6
+http://111.13.111.242/000000001000/3000000001000008379/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播7
+http://111.13.111.242/000000001000/3000000001000010129/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播8
+http://111.13.111.242/000000001000/3000000001000010948/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播9
+http://111.13.111.242/000000001000/3000000001000026778/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播10
+http://111.13.111.242/000000001000/3000000001000028638/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播11
+http://111.13.111.242/000000001000/3000000001000031494/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播12
+http://111.13.111.242/000000001000/3000000010000000097/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播13
+http://111.13.111.242/000000001000/3000000010000002019/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播14
+http://111.13.111.242/000000001000/3000000010000002032/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播15
+http://111.13.111.242/000000001000/3000000010000002809/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播16
+http://111.13.111.242/000000001000/3000000010000003915/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播17
+http://111.13.111.242/000000001000/3000000010000004193/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播18
+http://111.13.111.242/000000001000/3000000010000004464/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播19
+http://111.13.111.242/000000001000/3000000010000005837/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播20
+http://111.13.111.242/000000001000/3000000010000006077/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播21
+http://111.13.111.242/000000001000/3000000010000006658/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播22
+http://111.13.111.242/000000001000/3000000010000006944/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播23
+http://111.13.111.242/000000001000/3000000010000007692/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播24
+http://111.13.111.242/000000001000/3000000010000009788/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播25
+http://111.13.111.242/000000001000/3000000010000010833/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播26
+http://111.13.111.242/000000001000/3000000010000011112/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播27
+http://111.13.111.242/000000001000/3000000010000011297/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播28
+http://111.13.111.242/000000001000/3000000010000011518/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播29
+http://111.13.111.242/000000001000/3000000010000011763/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播30
+http://111.13.111.242/000000001000/3000000010000011873/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播31
+http://111.13.111.242/000000001000/3000000010000012398/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播32
+http://111.13.111.242/000000001000/3000000010000012450/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播33
+http://111.13.111.242/000000001000/3000000010000012558/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播34
+http://111.13.111.242/000000001000/3000000010000012616/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播35
+http://111.13.111.242/000000001000/3000000010000015470/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播36
+http://111.13.111.242/000000001000/3000000010000015560/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播37
+http://111.13.111.242/000000001000/3000000010000017389/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播38
+http://111.13.111.242/000000001000/3000000010000017678/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播39
+http://111.13.111.242/000000001000/3000000010000017997/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播40
+http://111.13.111.242/000000001000/3000000010000019380/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播41
+http://111.13.111.242/000000001000/3000000010000019839/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播42
+http://111.13.111.242/000000001000/3000000010000020168/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播43
+http://111.13.111.242/000000001000/3000000010000021904/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播44
+http://111.13.111.242/000000001000/3000000010000023434/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播45
+http://111.13.111.242/000000001000/3000000010000024205/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播46
+http://111.13.111.242/000000001000/3000000010000024691/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播47
+http://111.13.111.242/000000001000/3000000010000025380/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播48
+http://111.13.111.242/000000001000/3000000010000025943/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播49
+http://111.13.111.242/000000001000/3000000010000027318/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播50
+http://111.13.111.242/000000001000/3000000010000027638/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播51
+http://111.13.111.242/000000001000/3000000010000027691/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播52
+http://111.13.111.242/000000001000/3000000010000031669/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播53
+http://111.13.111.242/000000001000/3000000010000032106/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播-1-4K
+http://111.13.111.242/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播𝟙「IPV6」
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播𝟚「IPV6」
+http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播𝟛「IPV6」
+http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+#EXTINF:-1 group-title="💓咪咕直播",咪咕直播𝟜「IPV6」
+http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+#EXTINF:-1 group-title="🏀SPORTS⚽️",TRA体育
+https://litv.zapi.us.kg/?id=4gtv-4gtv077
+#EXTINF:-1 group-title="🏀SPORTS⚽️",DAZN1
+https://stream1.freetv.fun/dazn-sport-1-1.ctv
+#EXTINF:-1 group-title="🏀SPORTS⚽️",DAZN2
+https://stream1.freetv.fun/dazn-sport-2-1.ctv
+#EXTINF:-1 group-title="🏀SPORTS⚽️",ELEVEN1
+http://211.72.65.236:8566/.m3u8
+#EXTINF:-1 group-title="🏀SPORTS⚽️",ELEVEN2
+http://211.72.65.236:8567/.m3u8
+#EXTINF:-1 group-title="🏀SPORTS⚽️",ELEVEN体育1
+rtmp://f13h.mine.nu/sat/tv731
+#EXTINF:-1 group-title="🏀SPORTS⚽️",ELEVEN体育2
+rtmp://f13h.mine.nu/sat/tv741
+#EXTINF:-1 group-title="🏀SPORTS⚽️",爱尔达体育2
+http://iptv12k.com:35461/live/test167/12345/1220.m3u8
+#EXTINF:-1 group-title="🏀SPORTS⚽️",爱尔达体育3
+http://iptv12k.com:35461/live/test167/12345/1219.m3u8
+#EXTINF:-1 group-title="🏀SPORTS⚽️",爱尔达体育2
+ http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
+#EXTINF:-1 group-title="🏀SPORTS⚽️",纬来体育
+http://211.72.65.236:8585/.m3u8
+#EXTINF:-1 group-title="🏀SPORTS⚽️",纬来体育
+rtmp://f13h.mine.nu:1935/sat/tv721
+#EXTINF:-1 group-title="🏀SPORTS⚽️",纬来体育
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 group-title="🏀SPORTS⚽️",纬来体育
+http://125.227.210.55:8155/VideoInput/play.ts
+#EXTINF:-1 group-title="🏀SPORTS⚽️",纬来体育
+https://stream1.freetv.fun/wei-lai-ti-yu-9.ctv
+#EXTINF:-1 group-title="🏀SPORTS⚽️",skysports
+https://stream1.freetv.fun/skysports-3.ctv
+#EXTINF:-1 group-title="🏀SPORTS⚽️",skysports
+https://stream1.freetv.fun/skysports-2.ctv
+#EXTINF:-1 group-title="🏀SPORTS⚽️",skysports plus
+https://stream1.freetv.fun/skysports-plus-1.ctv
+#EXTINF:-1 group-title="🏀SPORTS⚽️",NBA TV
+http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
+#EXTINF:-1 group-title="🏀SPORTS⚽️",NBA TV
+https://stream1.freetv.fun/nba-tv-1.ctv
+#EXTINF:-1 group-title="🏀SPORTS⚽️",NBA TV
+https://stream1.freetv.fun/nba-tv-4.ctv
+#EXTINF:-1 group-title="🏀SPORTS⚽️",nowsports
+https://stream1.freetv.fun/nowsports-1.ctv
+#EXTINF:-1 group-title="🏀SPORTS⚽️",swerve sports
+https://stream1.freetv.fun/swerve-sports-2.m3u8
+#EXTINF:-1 group-title="🏀SPORTS⚽️",swerve sports
+https://stream1.freetv.fun/swerve-sports-1.m3u8
+#EXTINF:-1 group-title="🏀SPORTS⚽️",jsports 1
+https://stream1.freetv.fun/jsports-1-1.m3u8
+#EXTINF:-1 group-title="🏀SPORTS⚽️",jsports 2
+https://stream1.freetv.fun/jsports-2-2.m3u8
+#EXTINF:-1 group-title="🏀SPORTS⚽️",band sports
+https://stream1.freetv.fun/band-sports-3.m3u8
+#EXTINF:-1 group-title="🏀SPORTS⚽️",fox sports 2
+https://stream1.freetv.fun/fox-sports-2-5.ctv
+#EXTINF:-1 group-title="🏀SPORTS⚽️",博斯魅力
+https://litv.zapi.us.kg/?id=litv-longturn04
+#EXTINF:-1 group-title="🏀SPORTS⚽️",博斯网球
+https://litv.zapi.us.kg/?id=litv-longturn09
+#EXTINF:-1 group-title="🏀SPORTS⚽️",博斯高球1
+https://litv.zapi.us.kg/?id=litv-longturn05
+#EXTINF:-1 group-title="🏀SPORTS⚽️",博斯高球2
+https://litv.zapi.us.kg/?id=litv-longturn06
+#EXTINF:-1 group-title="🏀SPORTS⚽️",博斯运动1
+https://litv.zapi.us.kg/?id=litv-longturn07
+#EXTINF:-1 group-title="🏀SPORTS⚽️",博斯运动2
+https://litv.zapi.us.kg/?id=litv-longturn08
+#EXTINF:-1 group-title="🏀SPORTS⚽️",博斯无限1
+https://litv.zapi.us.kg/?id=litv-longturn10
+#EXTINF:-1 group-title="🏀SPORTS⚽️",博斯无限2
+https://litv.zapi.us.kg/?id=litv-longturn13
+#EXTINF:-1 group-title="🏀SPORTS⚽️",智林体育
+https://litv.zapi.us.kg/?id=4gtv-4gtv101
